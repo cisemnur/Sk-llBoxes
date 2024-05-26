@@ -74,6 +74,9 @@ Oyunun Amacı , Oyuncunun **Hafıza , Dikkat Ve Yeteneğini** Ölçmektir. Oyunc
 **Oyun İşleyişi Ve Kontrolü**:
 Oyunun İşleyişinde Planlama,Tasarım, Organizasyon Faaliyetleri Yerine Getirilmeye Çalışıldı.
 
+**OYUNU HAZIRLAYAN**
+ÇİSEMNUR ŞAHİN...
+
 
 
 
