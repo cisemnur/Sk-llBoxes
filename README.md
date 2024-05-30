@@ -74,6 +74,19 @@ Oyunun Amacı , Oyuncunun **Hafıza , Dikkat Ve Yeteneğini** Ölçmektir. Oyunc
 **Oyun İşleyişi Ve Kontrolü**:
 Oyunun İşleyişinde Planlama,Tasarım, Organizasyon Faaliyetleri Yerine Getirilmeye Çalışıldı.
 
+
+<br>
+
+**Oyun Videosu**
+
+
+https://github.com/cisemnur/Sk-llBoxes/assets/148980295/d8e56144-ccdd-426b-9004-7318af1d00f8
+
+<br>
+
+
+
+
 **OYUNU HAZIRLAYAN**
 ÇİSEMNUR ŞAHİN...
 
